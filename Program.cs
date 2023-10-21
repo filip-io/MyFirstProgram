@@ -1,5 +1,5 @@
 ﻿
-// Filip Nilsson .NET23
+// Filip Nilsson NET23
 
 namespace MyFirstProgram
 {
